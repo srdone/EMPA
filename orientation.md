@@ -164,3 +164,20 @@ It will be hard - we can make it - we are worth it
 Grateful to be here, grateful we are here
 
 Represent them well
+
+
+###Q&A
+
+ - keep a list
+ - you cannot do it all
+ - don't give up the important things
+ - write everything down - don't miss committments
+ - Don't stress - most things aren't that big of a deal
+ - Use the group to help with understanding
+ - Serve others in the group
+ - Be willing to get help
+ - "Heavenly father, help me to see those who are around me"
+ - Job is to help and ask for help
+ - Use professor's office hours
+ - Order to the church - blessings from home teachers
+
