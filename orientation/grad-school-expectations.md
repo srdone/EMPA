@@ -1,4 +1,4 @@
-##Orientation
+##Grad School Expectations
 
 There are people who would have given up everything just to sit where we are sitting.
 We must be grateful - so many people who sacrifice so much so we can be here.
@@ -180,4 +180,3 @@ Represent them well
  - Job is to help and ask for help
  - Use professor's office hours
  - Order to the church - blessings from home teachers
-
