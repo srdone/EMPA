@@ -45,7 +45,7 @@ Stages:
  - Norming
  - Performing
 
-####Forming
+###Forming
 
 Individuals in a common setting
  - who are these people?
@@ -84,4 +84,168 @@ Needs:
 
 > "We needed each other and we knew it" - Pagonis
 
-*left off: p499*
+###Norming
+
+Teams become highly cohesive and integrated, with pressure to
+maintain agreement over all else
+
+Time for developing:
+ - team culture and informal relationships
+ - common behaviors and perspectives
+
+Members:
+ - experience pressure to conform to expectations
+
+Shift from overcoming uncertainty to developing norms
+
+Team members want to know:
+ - what are team norms and values
+ - how can I get along
+ - how can I show support
+ - how can I fit in
+
+Changing dynamics:
+ - individual needs met through group accomplishment
+ - team takes responsibility for solving problems
+ - agreement and willingness to go along
+ - feelings of loyalty
+
+Interpersonal relationships:
+ - cooperative
+ - conformity
+ - interpersonal attraction
+ - ignoring disagreements
+
+Team takes responsibility to:
+ - maintain unity and cohesion
+ - facilitate participation and empowerment
+ - show support for team members
+ - provide feedback
+
+Problems if team gets stuck in this stage:
+ - groupthink
+ - lack of diversity and varied perspectives
+ - preservation of team over good problem solving
+
+Groupthink:
+ - feeling invulnerable
+ - shared stereotypes
+ - rationalization of evidence of poor decisions
+ - feeling morally invulnerable
+ - self-censorship
+ - hushing deviant viewpoints
+ - guarding against disturbing ideas
+ - illusion of unanimity
+
+> To manage [the] tendency to develop groupthink,
+> the team must move through the norming stage into
+> the storming stage
+
+Addressing groupthink:
+ - designated critic / devils advocate
+ - encouragement of open discussion
+ - subgroups to create independent proposals
+ - Invite outside experts/opinions
+ - second chance meetings
+
+###Storming
+
+Team members start to have defined roles, increasing the
+variety of perspectives, which leads to disagreement
+
+Questions:
+ - how will we handle dissension
+ - how can we make decisions when there is disagreement
+ - how to communicate negative information
+ - do I want to remain a member of the team?
+
+> All sunshine makes a desert
+
+Team members begin to:
+ - take sides on issues
+ - form cliques
+ - disagree with the leader
+ - challenge views of others
+
+Tasks to address:
+ - how to manage conflict
+ - legitimize productive individuality
+ - create interdependence
+ - establish process for consensus building
+
+> Effective leaders encourage contrary opinion, an important source of vitality
+
+Differentiation of roles can encourage cohesion when:
+ - target for competition exists
+ - recognized as a team for accomplishments
+ - maintain visibility of vision
+ - turn students into teachers - teach values
+
+> Flexibility can degenerate into chaos in absence of well-established goals
+
+Dissemination of information
+ - Learn
+ - Apply
+ - Teach
+ - Inspect
+
+###Performing
+
+Team has overcome:
+ - skepticism
+ - uncertainty
+ - nonparticipativeness
+ - dependence
+ - self-centeredness
+ - groupthink
+ - counterdependence
+ - conflict
+ - polarization
+ - disharmony
+
+Team has developed:
+ - clear mission
+ - personal commitment
+ - high loyalty and morale
+ - differentiation and variety
+ - high mutual trust
+ - unconditional commitment to the team
+ - *mutual training and development*
+ - entrepreneurship
+ - willingness of individuals to take responsibility for development of the group
+
+Issues of this stage:
+ - how to help members thrive
+ - foster continuous improvement / creativity
+ - build on competencies
+ - maintain energy
+
+Changes:
+ - foster continuous improvement
+
+> "I can't quit trying. Once I have experienced excellence, normal performance
+> is just not good enough anymore. I can't stand still and expect different results
+
+##Leading Teams
+
+How do we create successful teams?
+ - Develop credibility
+ - help team members understand how they contribute
+ - Be trustworthy and non-hypocritical
+ - humility from leader
+ - clear and consistent
+ - optimistic, complimentary
+ - coach team members
+
+Leaders should:
+ - demonstrate integrity
+ - be clear and consistent
+ - stay optimistic
+ - focus on commonality first
+ - manage agreement and disagreement
+ - encourage and coach
+ - share information and gather information
+
+##Establishing SMART and Everest Goals
+
+
