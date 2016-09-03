@@ -248,4 +248,86 @@ Leaders should:
 
 ##Establishing SMART and Everest Goals
 
+> Leaders who clearly articulate the desired outcomes ... are more likely to
+> experience high performance from the team.
 
+Goals should be:
+ - specific
+ - challenging
+
+###SMART Goals
+ - Specific
+ - Measureable
+ - Aligned (OR Attainable)
+   - supports broader goals of org
+ - Realistic
+ - Time-bound
+
+Goals are not methods
+
+> I never tell a subordinate how to carry out a specific goal
+
+###Everest Goals
+ - ultimate achievement
+ - beyond the norm outcome
+ - achieving it brings inner pride and joy
+ - Capture deep inner commitment because the team members care about it
+ - Require hard, passionate effort and commitment
+ - Depend on complete honesty
+ - Motivate learning about oneself
+ - Enhance interpersonal relationships
+ - Open possibilities
+
+*what are some everest goals for our family?*
+
+> "Full effort is full victory"
+
+> "The process, the experience, the struggle,
+> the hard won lessons, these are ends in themselves"
+
+##Team Membership
+
+We spend far more of our time as a team member than a team leader
+
+Team members have a lot of influence on each other
+
+###Member roles
+ - Task-facilitating
+   - Direction giving, information seeking/giving, elaborating, urging, monitoring,
+     process analyzing, reality testing, enforcing, summarizing
+   - Necessary for efficient teams
+ - relationship-building
+   - help maintain a tension-free climate
+   - Supporting, harmonizing, tension relieving, confronting bad behavior,
+     energizing/motivating, developing (training/coaching), consensus building, emphathizing
+ - blocking roles (bad)
+   - dominating, overanalyzing, stalling (repeating old arguments), remaining passive,
+     overgeneralizing/blowing out of proportion, faultfinding (criticising excessively),
+     premature decisions, presenting opinions as facts, rejecting ideas based on the person,
+     pulling rank, resisting (negative about all suggestions), deflecting (changing subject)
+
+###Providing Feedback
+
+Fear keeps us from providing needed feedback
+
+Feedback guidelines:
+ - focus on behavior rather than the person
+ - focus on observations, not inferences / descriptions, not judgements
+ - about a specific situation (not past or abstract behavior)
+ - share ideas / information rather than giving advice (help individuals identify changes themselves)
+ - *don't overload with information*
+ - value for receiver, not on emotional release for giver
+ - very specific, and at appropriate time and place
+
+Differences may exist across cultures
+
+There is a difference between teamwork and task-aggregation
+
+##Takeaways
+ - Effective teams have to be built with concious effort - more that mere task-aggregation
+ - Forming, Norming, Storming, Performing are all necessary phases for effective teams
+ - Teams need inspiring Everest goals and SMART goals to achieve them
+ - Being an effective team member is just as important as being an effective leader
+ - Pay attention to problem behaviors and prevent them
+ - encourage task-faciliating / relationship building behaviors
+ - openness, honesty, and credibility key for effective leaders
