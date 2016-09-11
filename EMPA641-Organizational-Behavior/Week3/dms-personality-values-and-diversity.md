@@ -217,3 +217,10 @@ Tend to:
  - keep a journal to perform regular self-analysis
  - maintain balance in life
  - engage in self-renewal
+
+#Takaways
+ - I can and need to work on overcoming my individual limitations as someone with Asperger's
+ - Empathy is not agreeing with the other person, nor is it allowing their emotions to control our actions
+ - Empathy can be had without experiencing the same emotion
+ - I need to spend more time journaling so I can do better at maintaining my progress
+ - I must exercise my self awareness in many more ways than I currently do in order to become more competent
