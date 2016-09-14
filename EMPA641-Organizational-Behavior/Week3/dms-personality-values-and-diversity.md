@@ -17,7 +17,7 @@
  - help to diagnose differences among others, which is essential to being a good manager to use their skills
  - recognize our own special gifts and capitalize on our talents
 
-> Hatred against oneself is inseparabel from hatred against others
+> Hatred against oneself is inseparable from hatred against others
 
 ##The sensitive line
  - the point at which people feel they have to defend themselves
