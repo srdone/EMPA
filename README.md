@@ -1,4 +1,4 @@
 # EMPA
 EMPA Program Notes
 
-Notes from EMPA class lectures
+Notes from EMPA readings and some class lectures
