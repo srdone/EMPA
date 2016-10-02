@@ -171,3 +171,155 @@ What is validating communication?
  - avoid extremes or absolutes
  - focus on what can be controlled and changed
  - even with complements, specific is better than general
+
+#####Conjunctive vs Disjunctive
+
+> Conjunctive communication confirms the worth of the 
+> other person's statements
+
+Conjunctive Communication - joined to previous messages, flows smoothly
+
+Disjuncted Communication - disconnnected from what was stated before
+
+Becomes disjunctive when:
+ - lack of equal opportunity to speak
+ - talking over one another
+ - long pauses in discourse
+ - switching topics abruptly by one party
+
+Instead, make sure to:
+ - take turns
+ - connect what is said
+ - don't dominate the conversation
+ - avoid long pauses
+
+It helps to:
+ - ask questions based on previous statement
+ - waiting for the other to finish a sentence
+ - say only three to four sentences at a time and 
+   give the other party an opportunity to speak
+
+#####Owned vs Disowned
+
+Owned - uses first person words
+
+Disowned - uses pronouns refering to an unknown group, e.g. "We think", "they said", "one might say"
+
+Disowned communication:
+ - speaker avoids taking responsibility for what they say
+ - conveys disinterest / uncaring
+ - implies lack of confidence in the message
+ - others can't tell whose point of view the message represents
+
+Ownership of communication:
+ - increases self control
+ - is key to personal growth
+ - people trust the speaker more because they take
+   responsibility for what they say
+ - indicates willingness to invest in the relationship
+
+Can be used by a manager to help the other person own their own actions
+
+#####Supportive Listening
+
+> In any conversation, the person who talks the most is
+> the one who learns the least about the other person.
+> The good supervisor therefore must become a good listener
+
+> ... listening skills are often poorest when people
+> interact with those closet to them ... they interrupt
+> and jump to conclusions (i.e., they stop listening)
+> with people close to them than with others.
+
+Bad listening skills happen when:
+ - preoccupied with meeting own needs
+ - have negative attitudes toward the other person
+
+Show you are listening by:
+ - eye contact
+ - nods, smiles, focused attention
+ - select appropriate responses
+
+Good listeners:
+ - choose appropriate response types
+ - avoid evaluation and judgement as a first response
+
+Response types:
+ - Advising
+ - Deflecting
+ - Probing
+ - Reflecting
+
+#####Advising Responses
+ - evaluative
+ - provide opinion or instructions
+ - creates listener control of the conversation
+ - overused by most listeners
+
+problems:
+ - creates dependence
+ - creates impression of misunderstanding
+ - shifts focus from the issue to the listener's advice
+
+avoid:
+ - giving advice as a first response
+
+best to:
+ - provide advice that is an accepted standard
+ - otherwise, should be communicated as opinion
+
+#####Deflecting responses
+ - shifts focus away from the communicators' problem to
+   one selected by the listener
+ - provide similar experience from listener's experience
+
+Appropriate when:
+ - comparison or reassurance needed
+ - provide needed empathy and support
+ - avoid embarrasing either party
+
+Problems:
+ - implies that communicator's message is unimportant
+ - produces competitiveness
+
+Most effective when:
+ - clearly connected to what the communicator just said
+ - when the reason for the deflection is clear
+ - change in focus validates communicator
+
+#####Probing responses
+ - listener asks a question about communicator just said
+ - used to acquire additional information or foster appropriate responses
+ - helps to avoid evaluative and judgemental responses
+ - helps listener be specific and descriptive
+
+Problems
+ - sometimes pulls topic away from the issue at hand to the reasons behind it
+
+Hints:
+ - prefer what questions to why questions
+ - tailor probes to the situation
+
+Probing types:
+ - elaboration (tell me more)
+ - clarification (what do you mean by...)
+ - repition (once again, what do you think about...)
+ - reflection (you say you are having difficulty?)
+
+#####Reflecting responses
+ - mirror the message to let communicator know it was heard
+ - paraphrasing and clarifying the message (not mimicking)
+ - should dominate coaching and counseling situations
+
+Problems:
+ - communicator can feel they aren't being heard or listened to carefully
+ - perceived as an artificial 'technique'
+
+Rules:
+ - avoid repeaing the same response over and over
+ - avoid mimicking, instead restate
+ - make sure to contribute equally to the conversation
+ - focus on the personal first
+ - respond to feelings before content
+ - do not remain detached or over-identify
+ - avoid expressing agreement or disagreement
