@@ -190,4 +190,59 @@
    - make eating a relaxing time
 
 #####Psycholigical Resiliency
- - 
+ - hardiness (highly stress resistant)
+   - feeling in control of on'es life
+   - committed to and involed in what one is doing
+   - not alienated from others
+   - feeling challenged by new experiences
+   - not experiencing change as a threat
+   - respond to stress constructively
+   - take responsibility for their actions
+   - feel they can neutralize negative external forces
+   - believe that stressors are the result of their own choices
+   - believe in the importance of what they do
+   - feel responsible toward others
+   - welcome challenge
+   - prefer change to stability
+ - Type A Personality
+   - hostility, blaming, feelings of urgency => causes high stress
+   - feeling of urgency and need to work harder to overcome
+     any obstacle works against hardiness
+   - highly stressed people find it difficult to learn, to delegate, etc
+   - hostility tendendency most damaging to resiliency
+
+> "A pupil in such a hurry learns slowly"
+
+#####Small Wins strategy
+ - incremental accomplishments help individuals have a sense of making progress
+ - superior to coping with stressors in large chunks
+ - many slight changes over time >> large change
+ - learning occurs in small increments
+
+#####Deep relaxation strategies
+ - learn and practice deep relaxation techniques
+ - trains body to not respond as intensely to stress
+ - consists of:
+   - quiet environment
+   - comfortable position
+   - mental focus
+   - controlled breathing, pauses between breaths
+   - passive attitude
+   - focused bodily changes
+   - repetition
+
+#####Social resiliency
+ - individuals in supportive social networks are less likely to experience stress
+   and cope with it better
+ - allows sharing of frustrations, dissapointments, get suggestions/encouragement,
+   and experience bonding
+ - people need role models in work environments
+   - must be mutually satisfying to be successful
+ - work teams also valuable
+
+#####Temporary techniques
+ - muscle relaxation
+ - deep breathing
+ - imagery and fantasy
+ - rehearsal of responses to stress (away from the stressor temporarily) "stepping out"
+ - reframing - redefining a situation as manageable
