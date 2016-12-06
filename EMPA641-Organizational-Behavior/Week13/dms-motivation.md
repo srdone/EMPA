@@ -97,4 +97,26 @@ Key assumptions about motivation
    5 - destribute rewards fairly
    6 - Provide timely rewards and provide specific, accurate, and honest performance feedback (D&C 121)
 
+#####Appropriate Goals for Motivation
+ - specific
+ - consistent - can be accomplished along with other existing goals
+ - appropriately challenging
+   - very important for highly motivated individuals
+   - high expectations -> high performance
 
+####Removing obstacles to performance
+ - manager's job to make the paths to goals easier to travel
+ - manager involvement vary according to:
+   - how much subordinates need
+   - how much subordinates expect
+   - how much support is available from other sources in organization
+ - Managers should regularly ask subordinates:
+   - how is your work going?
+   - what do you enjoy the most/least?
+   - how can I help you succeed?
+
+####Reinforcing High Performance Behavior
+ - link rewards to performance
+
+#####Using rewards as reinforcers
+ - 
